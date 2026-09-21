@@ -4,7 +4,7 @@ Cleaning a raw retail sales dataset using **Microsoft Excel (Power Query and for
 
 **Internship:** SWYNEX Technologies
 **Task:** Task 1, Data Cleaning & Preparation
-**Dataset:** *Retail Store Sales: Dirty for Data Cleaning* (Kaggle)
+*Dataset:* [Retail Store Sales: Dirty for Data Cleaning](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning) (Kaggle, by ahmedmohamed2003)
 
 ---
 
@@ -118,7 +118,7 @@ Also included: `Screenshots/validation_checks.png` and `Screenshots/power_query_
 
 ```
 SWYNEX-Data-Cleaning-Preparation
-├── Raw_Data
+├── Raw Data
 │   └── retail_store_sales.csv
 ├── Cleaned_Data
 │   └── cleaned_retail_store_sales.xlsx
