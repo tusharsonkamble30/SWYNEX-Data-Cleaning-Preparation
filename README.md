@@ -142,5 +142,10 @@ The workbook `cleaned_retail_store_sales.xlsx` contains three sheets: **Cleaned 
 - Merges can reorder rows, so keep an index column when order matters.
 
 ---
+## 10. License & Attribution
 
+- **Original dataset:** "Retail Store Sales: Dirty for Data Cleaning" by ahmedmohamed2003 on Kaggle, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Changes made:** the data was cleaned as described in this README (missing values recovered or flagged, data types corrected, and a `Data_Quality_Flag` column added).
+- **License of the cleaned data:** the cleaned dataset in this repository is an adaptation of the original and is shared under the same license, CC BY-SA 4.0.
+  
 *Prepared as part of the SWYNEX Technologies internship, Task 1.* #SWYNEX
